@@ -37,7 +37,7 @@ Database	CSV / SQLite / Firebase (customizable)
 
 ⚙️ Installation & Setup
 # Clone this repo
-git clone https://github.com/your-username/contactless-attendance.git
+git clone https://github.com/dasariharshith898-sys/CONTACTLESS-ATTENDENCE-VIA-FACE-RECOGNITION.git
 cd contactless-attendance
 
 # Install dependencies
